@@ -6,12 +6,11 @@ editor: visual
 
 Some participants have trouble accessing google hosted files. This page provides alterntive download sources. Original (google) file here: [Essential Info](https://docs.google.com/presentation/d/1CkB3-Qn77n7EwyS6_0OCr3R5a0odWgPQdMBtQbg391c/edit?usp=sharing)
 
-
-[GRAIL handbook except](docs/grail_expts.pdf) -  - not for onward sharing
+[GRAIL handbook except](docs/grail_expts.pdf) - - not for onward sharing
 
 [GRAIL full handbook](docs/GRAILHandbook2025-05-27.pdf) - not for onward sharing
 
-[Workshop 1 slides](docs/Workshop1.pdf)
+[Workshop 1 slides](docs/Workshop1.pdf); talk 1: [GRAIL recap](docs/w1talk1.mp4); talk 2: [why experiment](w1talk2.mp4)
 
 [post workshop 1 survey](https://docs.google.com/forms/d/e/1FAIpQLSfR_BL14IqkKsz5U9Wl_FycjNVoEBOChtu6TqRyl0xBT5ue3Q/viewform)
 
@@ -19,4 +18,4 @@ Some participants have trouble accessing google hosted files. This page provides
 
 [2025-05-20](docs/Email2025-05-20.pdf)
 
-[2025-5-27](docs/Email2025-05-20.pdf)
+[2025-05-27](docs/Email2025-05-20.pdf)
