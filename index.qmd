@@ -14,8 +14,12 @@ Some participants have trouble accessing google hosted files. This page provides
 
 [post workshop 1 survey](https://docs.google.com/forms/d/e/1FAIpQLSfR_BL14IqkKsz5U9Wl_FycjNVoEBOChtu6TqRyl0xBT5ue3Q/viewform)
 
+[pre workshiop 2 reading on PICO](docs/PICO.pdf)
+
 ## Emails sent to participants
 
 [2025-05-20](docs/Email2025-05-20.pdf)
 
 [2025-05-27](docs/Email2025-05-20.pdf)
+
+[2025-05-27](docs/Email2025-06-06.pdf)
