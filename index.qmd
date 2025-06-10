@@ -16,6 +16,8 @@ Some participants have trouble accessing google hosted files. This page provides
 
 [pre workshiop 2 reading on PICO](docs/PICO.pdf)
 
+[workshop 2 slides](docs/Workshop2.pdf)
+
 ## Emails sent to participants
 
 [2025-05-20](docs/Email2025-05-20.pdf)
