@@ -6,6 +6,8 @@ editor: visual
 
 Some participants have trouble accessing google hosted files. This page provides alterntive download sources. Original (google) file here: [Essential Info](https://docs.google.com/presentation/d/1CkB3-Qn77n7EwyS6_0OCr3R5a0odWgPQdMBtQbg391c/edit?usp=sharing)
 
+# Workshop 1: 
+
 [GRAIL handbook except](docs/grail_expts.pdf) - - not for onward sharing
 
 [GRAIL full handbook](docs/GRAILHandbook2025-05-27.pdf) - not for onward sharing
@@ -14,14 +16,26 @@ Some participants have trouble accessing google hosted files. This page provides
 
 [post workshop 1 survey](https://docs.google.com/forms/d/e/1FAIpQLSfR_BL14IqkKsz5U9Wl_FycjNVoEBOChtu6TqRyl0xBT5ue3Q/viewform)
 
+# Workshop 2
+
 [pre workshiop 2 reading on PICO](docs/PICO.pdf)
 
 [workshop 2 slides](docs/Workshop2.pdf)
 
-## Emails sent to participants
+[post workshop 2 survey & homework submission](https://forms.gle/UfkJqDYJ6VEqD1u16)
+
+La Caixa report: [AI-assisted prescreening of biomedical research proposals: ethical considerations and the pilot case of “la Caixa” Foundation](https://www.cambridge.org/core/journals/data-and-policy/article/aiassisted-prescreening-of-biomedical-research-proposals-ethical-considerations-and-the-pilot-case-of-la-caixa-foundation/D17CC86C884D4F9E3A6DD9ABF3F4605E)
+
+SNSF Repo <https://github.com/snsf-data/snsf-grant-similarity> / Report [The Value of Pre-training for Scientific Text Similarity: Evidence from Matching Grant Proposals to Reviewers](https://aclanthology.org/2024.swisstext-1.8.pdf)
+
+AQuAS Repo <https://github.com/sirisacademic/reviewer-matcher>
+
+# Emails sent to participants
 
 [2025-05-20](docs/Email2025-05-20.pdf)
 
 [2025-05-27](docs/Email2025-05-20.pdf)
 
 [2025-06-06](docs/Email2025-06-06.pdf)
+
+[2025-06-10](docs/Email2025-06-10.pdf)
