@@ -18,7 +18,7 @@ Some participants have trouble accessing google hosted files. This page provides
 
 # Workshop 2
 
-[pre workshiop 2 reading on PICO](docs/PICO.pdf)
+[pre workshop 2 reading on PICO](docs/PICO.pdf)
 
 [workshop 2 slides](docs/Workshop2.pdf)
 
