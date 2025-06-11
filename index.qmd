@@ -20,7 +20,7 @@ Some participants have trouble accessing google hosted files. This page provides
 
 [pre workshop 2 reading on PICO](docs/PICO.pdf)
 
-[workshop 2 slides](docs/Workshop2.pdf)
+[workshop 2 slides](docs/Workshop2.pdf) / See also [Slides from SNSF](docs/snsf_matching_afire.pdf)
 
 [post workshop 2 survey & homework submission](https://forms.gle/UfkJqDYJ6VEqD1u16)
 
