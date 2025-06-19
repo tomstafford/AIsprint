@@ -6,7 +6,7 @@ editor: visual
 
 Some participants have trouble accessing google hosted files. This page provides alterntive download sources. Original (google) file here: [Essential Info](https://docs.google.com/presentation/d/1CkB3-Qn77n7EwyS6_0OCr3R5a0odWgPQdMBtQbg391c/edit?usp=sharing)
 
-# Workshop 1: 
+# Workshop 1:
 
 [GRAIL handbook except](docs/grail_expts.pdf) - - not for onward sharing
 
@@ -21,6 +21,8 @@ Some participants have trouble accessing google hosted files. This page provides
 [pre workshop 2 reading on PICO](docs/PICO.pdf)
 
 [workshop 2 slides](docs/Workshop2.pdf) / See also [Slides from SNSF](docs/snsf_matching_afire.pdf)
+
+[workshop 2 recording, part 1](docs/w2part1.mp4) / [workshop 2 recording, part 2](docs/w2part2.mp4)
 
 [post workshop 2 survey & homework submission](https://forms.gle/UfkJqDYJ6VEqD1u16)
 
