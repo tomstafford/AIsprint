@@ -32,6 +32,14 @@ SNSF Repo <https://github.com/snsf-data/snsf-grant-similarity> / Report [The Val
 
 AQuAS Repo <https://github.com/sirisacademic/reviewer-matcher>
 
+# Workshop 3
+
+[workshop 2 slides](docs/Workshop3.pdf) / [slides from RCN pitch](w2rcn.pdf)
+
+# Feedback!
+
+Please complete feedback on the AI Sprint as a whole <https://forms.gle/UcHn6QxzBRR48PJL7>
+
 # Emails sent to participants
 
 [2025-05-20](docs/Email2025-05-20.pdf)
