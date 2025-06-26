@@ -34,7 +34,9 @@ AQuAS Repo <https://github.com/sirisacademic/reviewer-matcher>
 
 # Workshop 3
 
-[workshop 2 slides](docs/Workshop3.pdf) / [slides from RCN pitch](w2rcn.pdf)
+[workshop 3 slides](docs/Workshop3.pdf) / [slides from RCN pitch](w2rcn.pdf)
+
+Recordings: [Part 1](docs/w3part1.mp4); [Part 2](docs/w3part2.mp4); [Part 3](docs/w3part3.mp4); [Part 4](docs/w3part4.mp4); [Part 5](docs/w3part5.mp4);
 
 # Feedback!
 
